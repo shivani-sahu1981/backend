@@ -39,3 +39,4 @@ const calculate = function(radius, logic){
 
 console.log(calculate(radius, diameter));
 console.log(calculate(radius, area));
+
